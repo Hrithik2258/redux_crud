@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "name": "hrithik",
+      "age": 22,
+      "address": "mumbai",
+      "email": "Addme@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "hr",
+      "age": 22,
+      "address": "vapi",
+      "email": "Addme@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "rr",
+      "age": 22,
+      "address": " chalavapi",
+      "email": "Addme@gmail.com",
+      "id": 3
+    }
+  ]
+}
